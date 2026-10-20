@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "@apla/pdu": "^1.0.3",
-    "serialport": "latest"
+    "@serialport/stream": "^11.0.0",
+    "@serialport/bindings-cpp": "^11.0.3"
   }
 }
